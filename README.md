@@ -3,7 +3,7 @@ just some practice
 
 Lets do this in different languages! Some new, some to learn while doing this practice.
 
-order (place * on next language when finished with that days')
+order (place * on next language when finished with that day's)
 c++ 
 rust *
 java
