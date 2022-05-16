@@ -5,7 +5,7 @@ Lets do this in different languages! Some new, some to learn while doing this pr
 
 order (place * on next language when finished with that day's)
 c++ 
-java
+java*
 go
 python
 
