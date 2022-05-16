@@ -9,4 +9,4 @@ java
 go
 python
 
-rust was taken out for a bit cause I was having trouble and had to move on
+Rust was taken out for a bit because I was having trouble and had to move on.
