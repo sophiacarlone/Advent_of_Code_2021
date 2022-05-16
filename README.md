@@ -5,7 +5,8 @@ Lets do this in different languages! Some new, some to learn while doing this pr
 
 order (place * on next language when finished with that day's)
 c++ 
-rust *
 java
 go
 python
+
+rust was taken out for a bit cause I was having trouble and had to move on
